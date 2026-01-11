@@ -15,5 +15,4 @@ ZAHOOR-10.610453453 # 3 day 12 jane expired key
 ZAHOOR-10.610304304 # 3 day 12 jane expired key
 ZAHOOR-10.610352352 7 day 17 Jane expired key
 ZAHOOR-10.610305305 15 day 25 jane expired key pysa moosa da ga
-ZAHOOR-10.610323323 smart 
 ZAHOOR-10.610215215 7 day 18 Jane expired key
