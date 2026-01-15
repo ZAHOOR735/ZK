@@ -13,3 +13,4 @@ ZAHOOR-10.610305305 15 day 25 jane expired key pysa moosa da ga
 ZAHOOR-10.610215215 7 day 18 Jane expired key
 ZAHOOR-10.610453453 7 day 19 jane expired key
 ZAHOOR-10.610283283 1month jolya 12 expired key 
+ZAHOOR-10.610227227 7 day jane 22 expired key pymnt kal.kara GA 
