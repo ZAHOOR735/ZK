@@ -1,14 +1,11 @@
 ZAHOOR-10.610359359 zk
 ZAHOOR-10.610270270 zain
 ZAHOOR-10.610366366 zain
-ZAHOOR-10.610349349 22 day 25 jane expired key
 ZAHOOR-10.610316316 moosa
 ZAHOOR-10.610279279 aadi Nokia 
 ZAHOOR-10.610245245 aadi Nokia 
 ZAHOOR-10.610244244 aadi Nokia 
-ZAHOOR-10.610305305 15 day 25 jane expired key pysa moosa da ga
 ZAHOOR-10.610283283 1month feb 12 expired key 
-ZAHOOR-10.610453453 7 day jane 26 expired key
 ZAHOOR-10.610259259 15 day feb 6 expired key
 ZAHOOR-10.610227227 7 day jan 28 expired key pysa kal do ga
 ZAHOOR-10.610367367 9 day jan 29 expired key
@@ -17,5 +14,3 @@ ZAHOOR-10.610302302 15 day feb 10 expired key
 ZAHOOR-10.610269269 7 day  feb 2 expired key
 ZAHOOR-10.610361361 15 day feb 10 expired key 
 ZAHOOR-10.610382382 10 day feb 6 expired key 
-A79492021BA1E33A4202CTU35853KHOSO~10359
-A79492021BA1E33A4202CTU35853KHOSO~10359
