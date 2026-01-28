@@ -7,7 +7,6 @@ ZAHOOR-10.610245245 aadi Nokia
 ZAHOOR-10.610244244 aadi Nokia 
 ZAHOOR-10.610283283 1month feb 12 expired key 
 ZAHOOR-10.610259259 15 day feb 6 expired key
-ZAHOOR-10.610227227 7 day jan 28 expired key pysa kal do ga
 ZAHOOR-10.610367367 9 day jan 29 expired key
 ZAHOOR-10.610255255 7 day jan 29 expired key
 ZAHOOR-10.610302302 15 day feb 10 expired key
@@ -17,3 +16,4 @@ ZAHOOR-10.610382382 10 day feb 6 expired key
 ZAHOOR-10.610242242 7 day  feb 4 expired key
 ZAHOOR-10.610185185 7 day feb 4 expired key bad ma pymnt kara ga foji habib 
 ZAHOOR-10.610205205 habib 
+ZAHOOR-10.610304304 7 day feb 5 expired key
