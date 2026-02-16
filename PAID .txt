@@ -4,11 +4,8 @@ ZAHOOR-10.610270270 zain
 ZAHOOR-10.610279279 Nokia
 ZAHOOR-10.610245245 Nokia 
 ZAHOOR-10.610316316 moosa
-ZAHOOR-10.610255255 7 dqy 14 feb expired key
-ZAHOOR-10.610282282 7 day 14 feb expired key
 ZAHOOR-10.610349349 1month march 5 expired key
 ZAHOOR-10.610361361 1month march 9 expired key
-ZAHOOR-10.610269269 7 day 15 feb expired key
 ZAHOOR-10.610249249 7 day 18 feb expired key
 ZAHOOR-10.610227227 7 day 20 feb expired key
 ZAHOOR-10.610302302 15 day 30 frb expired key
